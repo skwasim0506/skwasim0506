@@ -12,10 +12,10 @@
 ### Hi there, I'm Wasim 👋
 
 
-I'm a Machine Learning Engineer.
+I'm a Full Stack Developer.
 
-I am skilled in scikit-learn, numpy, pandas, matplotlib, seaborn and tensorflow.
+I am skilled in HTML, CSS, Javascript, React, Sanity and Stripe.
 
-I am learning about Deep Learning. 
+I am learning more about Backend technologies. 
 
 Feel free to reach out to me at skwasimakram0506@gmail.com
